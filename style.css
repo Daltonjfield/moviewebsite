@@ -1,0 +1,65 @@
+html {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+
+
+.navigation .navbar-brand{
+    color: white; 
+    margin-left: 40px;
+    padding: inherit; 
+    font-weight: bold; 
+    background-color: rgb(201, 40, 40);
+    
+}
+
+
+h1{
+    margin-bottom: 0px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+}
+
+.card-img-top {
+    object-fit: cover;
+}
+
+.card-body .btn btn-primary{
+    margin-bottom: 5px;
+}
+
+.main p{
+    position: relative;
+    bottom: 500px;
+    left: 200px;
+  
+}
+
+.main_2 p{
+    position: relative;
+    bottom: 575px;
+    left: 200px;
+}
+
+.main_3{
+    position: relative;
+    bottom: 550px;
+    left: 200px;
+}
+
+.main_4{
+    position: relative;
+    bottom: 575px;
+    left: 200px;
+}
+
+.main_5{
+    position: relative;
+    bottom: 575px;
+    left: 200px;
+}
